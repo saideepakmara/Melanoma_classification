@@ -42,11 +42,16 @@ State-of-the-art CNN renowned for scalability and performance.
 
 ## Optimizers:
 
-Stochastic Gradient Descent (SGD)
+Stochastic Gradient Descent (SGD) 
+
 SGD with Momentum
+
 Adam
+
 RAdam
+
 RMSprop
+
 L2 Regularization and Early Stopping: Used to combat overfitting.
 
 ## Main Findings:
